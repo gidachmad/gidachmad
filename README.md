@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ngl it's a dusty github, I'll be working again on it though, since I used gitlab for my last work
+
 <!--
 **gidachmad/gidachmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
